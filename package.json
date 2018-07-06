@@ -1,0 +1,15 @@
+{
+  "name": "sadb",
+  "version": "1.0.0",
+  "description": "very cool bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thology#4161",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2"
+  }
+}
